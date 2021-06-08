@@ -3,7 +3,7 @@ import React from 'react'
 
 const Footer = (props) => (
     <footer id="footer" style={props.timeout ? { display: 'none' } : {}}>
-        <p>2020</p>
+        <p>2021</p>
     </footer>
 )
 
